@@ -1,0 +1,16 @@
+{
+  "name": "uni-persistent",
+  "version": "1.0.0",
+  "description": "uniapp小程序持久化工具",
+  "main": "uni-persistent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uniapp",
+    "小程序",
+    "持久化"
+  ],
+  "author": "goblin_pitcher",
+  "license": "ISC"
+}
