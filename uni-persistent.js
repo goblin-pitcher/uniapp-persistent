@@ -123,7 +123,7 @@ export function persistedState({state, setItem, getItem, setDelay=0}) {
 /*
  通用方法
  */
-export function getType(para) {
+function getType(para) {
 	return Object.prototype.toString.call(para)
 		.replace(/\[object (.+?)\]/, '$1').toLowerCase()
 }
