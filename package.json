@@ -1,5 +1,5 @@
 {
-  "name": "uni-persistent",
+  "name": "uniapp-persistent",
   "version": "1.0.0",
   "description": "uniapp小程序持久化工具",
   "main": "uni-persistent.js",
