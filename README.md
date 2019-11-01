@@ -4,7 +4,7 @@
 
 可以选择创建一个需要持久化的vuex模块persistent.js:
 
-    import {persistedState} from '../common/tools.js'
+    import {persistedState} from 'uniapp-persistent'
     
     const state = {
     	loginID: ''
